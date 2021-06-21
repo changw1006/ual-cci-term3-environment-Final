@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/00Strat.unity
-  isLoaded: 1
-  isActive: 1
