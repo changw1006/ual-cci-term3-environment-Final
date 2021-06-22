@@ -9,13 +9,17 @@ Chang Wang 20036997
 >
 > [[Details Blog]](https://changw1006.wixsite.com/mysite/post/term3-environment-final-project) 
 
-<br />
 
 ## **Introduction**
 
 This is an AR animal interactive game, for which I have created an app that can be used on Android phones. Swiping the pictures of five different animals will reveal an AR effect of each animal, as well as a 3D view of the ecological environment in which each animal lives.
 
-<br />
+
+## **Final Work**
+
+An apk running on android phones.
+
+Video screenshots.
 
 ![](https://static.wixstatic.com/media/27541e_ec1a76b8116b49d694d0317acad85d35~mv2.jpg/v1/fill/w_1480,h_1112,al_c,q_90/27541e_ec1a76b8116b49d694d0317acad85d35~mv2.webp)
 
